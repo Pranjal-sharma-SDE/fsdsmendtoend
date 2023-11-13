@@ -4,5 +4,5 @@ numpy
 seaborn
 ipykernel
 flask
-
+boto3
 -e .
